@@ -1,0 +1,23 @@
+{
+  "name": "tech_support",
+  "version": "1.0.0",
+  "description": "a ticket system with react and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cchane4/Tech_Support.git"
+  },
+  "author": "Chad Chaney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cchane4/Tech_Support/issues"
+  },
+  "homepage": "https://github.com/cchane4/Tech_Support#readme",
+  "dependencies": {
+    "npm": "^5.8.0",
+    "react": "^16.3.1"
+  }
+}
