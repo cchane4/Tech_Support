@@ -17,9 +17,10 @@
   },
   "homepage": "https://github.com/cchane4/Tech_Support#readme",
   "dependencies": {
-    "npm": "^5.8.0",
+    "npm": "^6.0.1",
     "react": "^16.3.1",
-    "react-dom": "^16.3.1"
+    "react-dom": "^16.3.1",
+    "react-router": "^3.2.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
