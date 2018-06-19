@@ -24,8 +24,9 @@ module.exports = {
                      'transform-decorators-legacy']
           }
        },
-      { test: /\.scss$/,
-            loader: ExtractTextPlugin.extract('css!sass')
+      {
+        test: /\.scss$/,
+        loader: ExtractTextPlugin.extract('css-loader!sass-loader')
         }
     ]
   },

@@ -7,4 +7,6 @@ import routes from './routes';
 /* application to render our component into the #app element we made on our index.html file.
 telling your clients screen to render the App component (noted by the tags we put on either side of it)
 inside a document element with the id of app.*/
+require('./assets/stylesheets/base.scss');
+require('./assets/stylesheets/navigation.scss');
 ReactDom.render(<Router history={browserHistory} routes={routes}/>, document.querySelector('#app'));
