@@ -9,4 +9,5 @@ telling your clients screen to render the App component (noted by the tags we pu
 inside a document element with the id of app.*/
 require('./assets/stylesheets/base.scss');
 require('./assets/stylesheets/navigation.scss');
+require('./assets/stylesheets/lemonade.scss');
 ReactDom.render(<Router history={browserHistory} routes={routes}/>, document.querySelector('#app'));

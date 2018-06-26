@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/cchane4/Tech_Support#readme",
   "dependencies": {
+    "graceful-fs": "^4.1.11",
+    "lemonade-grid": "^2.1.0",
+    "minimatch": "^3.0.4",
     "npm": "^6.0.1",
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
