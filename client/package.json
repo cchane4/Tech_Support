@@ -1,0 +1,21 @@
+{
+  "name": "tech_support",
+  "version": "1.0.0",
+  "description": "a ticket system with react and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --inline --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cchane4/Tech_Support.git"
+  },
+  "author": "Chad Chaney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cchane4/Tech_Support/issues"
+  },
+  "homepage": "https://github.com/cchane4/Tech_Support#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
